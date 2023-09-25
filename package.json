@@ -18,6 +18,7 @@
     "eject": "react-app-rewired eject"
   },
   "devDependencies": {
+    "babel-plugin-module-resolver": "^5.0.0",
     "customize-cra": "^1.0.0",
     "react-app-rewired": "^2.2.1"
   },
