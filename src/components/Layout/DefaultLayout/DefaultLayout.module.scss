@@ -1,0 +1,18 @@
+.wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    display: flex;
+
+    min-height: 1000px;
+
+}
+
+.content {
+
+    min-height: 1000px;
+    flex: 1;
+}
